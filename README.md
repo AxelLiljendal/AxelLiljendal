@@ -25,7 +25,7 @@
 
 
 ### Contact me
-<a href="https://discord.com/users/77liljendal" target="_blank">
+<a href="https://cdn.simpleicons.org/discord/5865F2)" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/AxelLiljendal" target="_blank">
