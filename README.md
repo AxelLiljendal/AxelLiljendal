@@ -25,13 +25,11 @@
 
 
 ### Contact me
-<span>
-  <a href="https://discord.com/users/77liljendal" target="_blank">
+<a href="https://discord.com/users/77liljendal" target="_blank">
   <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="40" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/AxelLiljendal" target="_blank">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
 </a>
-</span>
 
 
