@@ -25,3 +25,5 @@
 
 
 ### Contact me
+[![Discord](https://img.shields.io/badge/Discord-77liljendal-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/77liljendal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AxelLiljendal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AxelLiljendal)
