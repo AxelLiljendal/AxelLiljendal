@@ -26,11 +26,12 @@
 
 ### Contact me
 <a href="https://discord.com/users/77liljendal" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40" style="filter: invert(1); border: 2px solid white; border-radius: 8px; padding: 4px;"/>
 </a>
 <a href="https://www.linkedin.com/in/AxelLiljendal" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(1); border: 2px solid white; border-radius: 8px; padding: 4px;"/>
 </a>
+
 
 
 
