@@ -25,11 +25,12 @@
 
 
 ### Contact me
-<a href="https://cdn.simpleicons.org/discord/5865F2)" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
+<a href="https://discord.com/users/77liljendal" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40" style="filter: invert(1);"/>
 </a>
 <a href="https://www.linkedin.com/in/AxelLiljendal" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(1);"/>
 </a>
+
 
 
