@@ -19,7 +19,7 @@
 
 
 ### Github stats
-![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=dark)
+![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=tokyonight)
 
 ### Projects
 
