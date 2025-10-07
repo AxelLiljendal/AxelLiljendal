@@ -25,9 +25,5 @@
 
 
 ### Contact me
-<a href="https://discord.com/users/77liljendal" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(100%); border: 2px solid white; border-radius: 8px; padding: 4px; background-color: transparent;"/>
-</a>
-<a href="https://www.linkedin.com/in/AxelLiljendal" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(100%); border: 2px solid white; border-radius: 8px; padding: 4px; background-color: transparent;"/>
-</a>
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/77liljendal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelliljendal/)
