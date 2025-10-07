@@ -19,7 +19,7 @@
 
 
 ### Github stats
-
+``markdown ![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=default)
 
 ### Projects
 
