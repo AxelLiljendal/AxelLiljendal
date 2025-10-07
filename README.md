@@ -1,9 +1,9 @@
-## About me
+### About me
 
-## Languages and tools
+### Languages and tools
 
-## Github stats
+### Github stats
 
-## Projects
+### Projects
 
-## Contact me
+### Contact me
