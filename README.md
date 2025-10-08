@@ -20,7 +20,6 @@
 
 ### My Github stats
 ![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelLiljendal&layout=compact)
 
 ### Some projects i have created or contributed to
 
