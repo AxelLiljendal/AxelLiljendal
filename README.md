@@ -31,8 +31,8 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 Homi is a school group project that i'm currently working on together with two of my school mates.
 It's a full stack project that is an AirBnb clone.
 
-**Link (Backend)**: https://github.com/Leo-J-Skola/Backend_Grupp
-**Link (Frontend)**: https://github.com/Leo-J-Skola/Frontend_Grupp
+##### **Link (Backend)**: https://github.com/Leo-J-Skola/Backend_Grupp
+##### **Link (Frontend)**: https://github.com/Leo-J-Skola/Frontend_Grupp
 
 
 ### Contact me
