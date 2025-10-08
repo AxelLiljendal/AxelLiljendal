@@ -1,7 +1,7 @@
-### About me
+### A little bit about me
 
 
-### Languages and tools
+### Some tools i have used and learned
 <span style="display: flex; gap: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -18,10 +18,11 @@
 </span>
 
 
-### My stats
+### My Github stats
 ![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=radical)
 
-### Projects
+### Some projects i have created or contributed to
+
 
 
 ### Contact me
