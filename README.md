@@ -2,7 +2,7 @@
 Hi! I'm Axel Liljendal, a 29 y/o fullstack development student based in Gothenburg, Sweden.
 I'm Currently studying Java and expanding my skills toward fullstack development (Aug 2024 - May 2026). 
 I chose programming because i love creating new things, problem solving, collaborating in teams and constantly learning.
-Outside of coding, you'll usually find me playing table tennis, chess, running long distances, or spending time with my friend's and family.
+Outside of coding, you'll usually find me playing table tennis, chess, running long distances, or spending time with my friends and family.
 
 ### Some tools i have used and learned
 <span style="display: flex; gap: 40px;">
@@ -26,6 +26,13 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 ![Snake animation](https://raw.githubusercontent.com/AxelLiljendal/AxelLiljendal/output/github-contribution-grid-snake-dark.svg)
 
 ### Some projects i have created or contributed to
+
+#### Homi
+Homi is a school group project that i'm currently working on together with two of my school mates.
+It's a full stack project that is an AirBnb clone.
+
+**Link (Backend)**: https://github.com/Leo-J-Skola/Backend_Grupp
+**Link (Frontend)**: https://github.com/Leo-J-Skola/Frontend_Grupp
 
 
 ### Contact me
