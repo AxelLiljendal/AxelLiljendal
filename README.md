@@ -1,5 +1,8 @@
 ### A little bit about me
-
+Hi! I'm Axel Liljendal, a 29 y/o fullstack development student based in Gothenburg, Sweden.
+I'm Currently studying Java and expanding my skills toward fullstack development (Aug 2024 - May 2026). 
+I chose programming because i love creating new things, problem solving, collaborating in teams and constantly learning.
+Outside of coding, you'll usually find me playing table tennis, chess, running long distances, or spending time with my friend's and family.
 
 ### Some tools i have used and learned
 <span style="display: flex; gap: 40px;">
