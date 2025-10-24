@@ -1,7 +1,7 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/a7ef96c0-05f6-4339-970f-4fe63d1d8b3b" />
 
 ### A little about me
-Hi! I'm Axel Liljendal, a 29 y/o fullstack development student based in Gothenburg, Sweden.
+I'm a 29 y/o fullstack development student based in Gothenburg, Sweden.
 I'm Currently studying Java and expanding my skills toward fullstack development (Aug 2024 - May 2026). 
 I chose programming because i love creating new things, problem solving, collaborating in teams and constantly learning.
 Outside of coding, you'll usually find me playing table tennis, chess, running long distances, or spending time with my friends and family.
