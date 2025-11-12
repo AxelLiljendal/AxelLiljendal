@@ -26,14 +26,12 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 </span>
 
 <details>
-  <summary> ### Portfolio</summary>
+  <summary><h3 style="display:inline">Portfolio</h3></summary>
 
-  #### Homi
-  Homi is a school group project that i'm currently working on together with two other contributors.
-  It's a full stack project that is an AirBnb clone.
+  Homi
+  Backend: https://github.com/Leo-J-Skola/Backend_Grupp  
+  Frontend: https://github.com/Leo-J-Skola/Frontend_Grupp
 
-  ##### **Link (Backend)**: https://github.com/Leo-J-Skola/Backend_Grupp  
-  ##### **Link (Frontend)**: https://github.com/Leo-J-Skola/Frontend_Grupp
 </details>
 
 ### My Github stats
