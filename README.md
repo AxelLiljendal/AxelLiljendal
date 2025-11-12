@@ -25,8 +25,8 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
 </span>
 
-### <details>
-  <summary>Portfolio</summary>
+<details>
+  <summary> ### Portfolio</summary>
 
   #### Homi
   Homi is a school group project that i'm currently working on together with two other contributors.
