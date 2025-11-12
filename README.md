@@ -26,11 +26,11 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 </span>
 
 <details>
-  <summary><h3 style="display:inline">Portfolio</h3></summary>
+  <summary><h3>Portfolio</h3></summary>
 
-  Homi
-  Backend: https://github.com/Leo-J-Skola/Backend_Grupp  
-  Frontend: https://github.com/Leo-J-Skola/Frontend_Grupp
+  <h4>Homi</h4>
+  <h5>Backend: https://github.com/Leo-J-Skola/Backend_Grupp</h5>  
+  <h5>Frontend: https://github.com/Leo-J-Skola/Frontend_Grupp</h5>
 
 </details>
 
