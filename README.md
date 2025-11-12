@@ -25,7 +25,7 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
 </span>
 
-<details>
+### <details>
   <summary>Portfolio</summary>
 
   #### Homi
