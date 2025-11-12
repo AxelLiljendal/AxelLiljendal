@@ -30,14 +30,20 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 ![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/AxelLiljendal/AxelLiljendal/output/github-contribution-grid-snake-dark.svg)
 
-### My portfolio
+<details>
+  <summary>
+    <strong>
+      My portfolio
+    </strong> — click to expand
+  </summary>
 
-#### Homi
-Homi is a school group project that i'm currently working on together with two other contributors.
-It's a full stack project that is an AirBnb clone.
+  #### Homi
+  Homi is a school group project that i'm currently working on together with two other contributors.
+  It's a full stack project that is an AirBnb clone.
 
-##### **Link (Backend)**: https://github.com/Leo-J-Skola/Backend_Grupp
-##### **Link (Frontend)**: https://github.com/Leo-J-Skola/Frontend_Grupp
+  ##### **Link (Backend)**: https://github.com/Leo-J-Skola/Backend_Grupp  
+  ##### **Link (Frontend)**: https://github.com/Leo-J-Skola/Frontend_Grupp
+</details>
 
 
 ### Connect with me
