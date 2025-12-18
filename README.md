@@ -1,4 +1,4 @@
-<img width="2125" height="575" alt="github-header-banner(2)" src="https://github.com/user-attachments/assets/fafd00fa-95ba-4d37-aec1-ce1a8c2fa9e9" />
+<img width="2125" height="425" alt="github-header-banner(4)" src="https://github.com/user-attachments/assets/5a073469-6fbb-45b7-aeab-4850bd68ed57" />
 
 ### About me
 I'm a 29 y/o fullstack development student based in Gothenburg, Sweden.
