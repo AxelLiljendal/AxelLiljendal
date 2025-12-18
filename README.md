@@ -25,6 +25,10 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
 </span>
 
+### My Github stats
+![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=tokyonight)
+![Snake animation](https://raw.githubusercontent.com/AxelLiljendal/AxelLiljendal/output/github-contribution-grid-snake-dark.svg)
+
 <details>
   <summary><h3>Click here to see my portfolio!</h3></summary>
 
@@ -33,10 +37,6 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   <h5>Frontend: https://github.com/Leo-J-Skola/Frontend_Grupp</h5>
 
 </details>
-
-### My Github stats
-![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=tokyonight)
-![Snake animation](https://raw.githubusercontent.com/AxelLiljendal/AxelLiljendal/output/github-contribution-grid-snake-dark.svg)
 
 ### Connect with me
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/77liljendal)
