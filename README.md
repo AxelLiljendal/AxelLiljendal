@@ -1,12 +1,12 @@
 <img width="2125" height="425" alt="github-header-banner(4)" src="https://github.com/user-attachments/assets/5a073469-6fbb-45b7-aeab-4850bd68ed57" />
 
-### About me
+## About me
 I'm a 29 y/o fullstack development student based in Gothenburg, Sweden.
 I'm Currently studying Java and expanding my skills toward fullstack development (Aug 2024 - May 2026). 
 I chose programming because i love creating new things, problem solving, collaborating in teams and constantly learning.
 Outside of coding, you'll usually find me playing table tennis, chess, running long distances, or spending time with my friends and family.
 
-### Some tools i have used
+## Some tools i have used
 <span style="display: flex; gap: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
@@ -25,7 +25,7 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
 </span>
 
-### My Github stats
+## My Github stats
 ![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/AxelLiljendal/AxelLiljendal/output/github-contribution-grid-snake-dark.svg)
 
@@ -38,6 +38,6 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 
 </details>
 
-### Connect with me
+## Connect with me
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/77liljendal)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelliljendal/)
