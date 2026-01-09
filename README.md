@@ -6,7 +6,7 @@ I'm Currently studying Java and expanding my skills toward fullstack development
 I chose programming because i love creating new things, problem solving, collaborating in teams and constantly learning.
 Outside of coding, you'll usually find me playing table tennis, chess, running long distances, or spending time with my friends and family.
 
-## Some tools i have used
+## Languages and tools
 <span style="display: flex; gap: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
@@ -25,12 +25,12 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
 </span>
 
-## My Github stats
+## My stats
 ![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=tokyonight)
 ![Snake animation](https://raw.githubusercontent.com/AxelLiljendal/AxelLiljendal/output/github-contribution-grid-snake-dark.svg)
 
 <details>
-  <summary><h3>Click here to see my portfolio!</h3></summary>
+  <summary><h3>Portfolio!</h3></summary>
 
   <h4>Homi</h4>
   <h5>Backend: https://github.com/Leo-J-Skola/Backend_Grupp</h5>  
