@@ -25,10 +25,6 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
 </span>
 
-## My stats
-![AxelLiljendal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxelLiljendal&show_icons=true&theme=tokyonight)
-![Snake animation](https://raw.githubusercontent.com/AxelLiljendal/AxelLiljendal/output/github-contribution-grid-snake-dark.svg)
-
 <details>
   <summary><h3>Portfolio!</h3></summary>
 
