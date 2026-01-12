@@ -26,7 +26,7 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 </span>
 
 <details>
-  <summary><h3>Portfolio!</h3></summary>
+  <summary><h3>My portfolio</h3></summary>
 
   <h4>Homi</h4>
   <h5>Backend: https://github.com/Leo-J-Skola/Backend_Grupp</h5>  
