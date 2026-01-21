@@ -28,9 +28,21 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 <details>
   <summary><h3>My portfolio</h3></summary>
 
-  <h4>Homi</h4>
-  <h5>Backend: https://github.com/Leo-J-Skola/Backend_Grupp</h5>  
+  <h4>Healthcare (School group project)</h4>
+  <h5>Backend:  https://github.com/Larsin15/HealthCareSDLC-CodeNerds</h5>
+  <h5>Frontend: https://github.com/Larsin15/HealthCareSDLC-CodeNerds-Frontend</h5>
+  <h5>Kanban:   https://github.com/users/Larsin15/projects/6/views/1</h5>
+
+  <h4>finance_tracker (Solo project in early stages development)</h4>
+  <h5>Backend:  https://github.com/AxelLiljendal/finance-tracker-backend</h5>
+  <h5>Frontend: Not yet created</h5>
+  <h5>Kanban:   https://github.com/users/AxelLiljendal/projects/8</h5>
+
+  <h4>Homi (School group project)</h4>
+  <h5>Backend:  https://github.com/Leo-J-Skola/Backend_Grupp</h5>  
   <h5>Frontend: https://github.com/Leo-J-Skola/Frontend_Grupp</h5>
+  <h5>Kanban 1: https://github.com/users/Leo-J-Skola/projects/3</h5>
+  <h5>Kanban 2: https://github.com/users/Leo-J-Skola/projects/6</h5>
 
 </details>
 
