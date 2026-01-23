@@ -35,7 +35,6 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
     <ul>
       <li><strong>Backend:</strong> <a href="https://github.com/Larsin15/HealthCareSDLC-CodeNerds">github.com/Larsin15/HealthCareSDLC-CodeNerds</a></li>
       <li><strong>Frontend:</strong> <a href="https://github.com/Larsin15/HealthCareSDLC-CodeNerds-Frontend">github.com/Larsin15/HealthCareSDLC-CodeNerds-Frontend</a></li>
-      <li><strong>Kanban:</strong> <a href="https://github.com/users/Larsin15/projects/6/views/1">Kanban Board</a></li>
     </ul>
   </div>
 
@@ -44,8 +43,6 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
     <ul>
       <li><strong>Backend:</strong> <a href="https://github.com/Leo-J-Skola/Backend_Grupp">github.com/Leo-J-Skola/Backend_Grupp</a></li>
       <li><strong>Frontend:</strong> <a href="https://github.com/Leo-J-Skola/Frontend_Grupp">github.com/Leo-J-Skola/Frontend_Grupp</a></li>
-      <li><strong>Kanban 1:</strong> <a href="https://github.com/users/Leo-J-Skola/projects/3">Project Board 1</a></li>
-      <li><strong>Kanban 2:</strong> <a href="https://github.com/users/Leo-J-Skola/projects/6">Project Board 2</a></li>
     </ul>
   </div>
 
@@ -55,8 +52,6 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
     <h4>finance_tracker <em>(early development)</em></h4>
     <ul>
       <li><strong>Backend:</strong> <a href="https://github.com/AxelLiljendal/finance-tracker-backend">github.com/AxelLiljendal/finance-tracker-backend</a></li>
-      <li><strong>Frontend:</strong> Not yet created</li>
-      <li><strong>Kanban:</strong> <a href="https://github.com/users/AxelLiljendal/projects/8">github.com/users/AxelLiljendal/projects/8</a></li>
     </ul>
   </div>
 </details>
