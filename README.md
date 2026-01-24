@@ -27,8 +27,6 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 
 <details>
   <summary><h3>Click here to see my portfolio</h3></summary>
-  
-  <h3>Group Projects</h3>
 
   <div style="margin-bottom: 48px">
     <h4>Healthcare</h4>
@@ -46,10 +44,8 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
     </ul>
   </div>
 
-  <h3>Solo Projects</h3>
-
   <div style="margin-bottom: 48px">
-    <h4>finance_tracker <em>(early development)</em></h4>
+    <h4>finance_tracker</h4>
     <ul>
       <li><strong>Backend:</strong> <a href="https://github.com/AxelLiljendal/finance-tracker-backend">github.com/AxelLiljendal/finance-tracker-backend</a></li>
     </ul>
