@@ -1,12 +1,12 @@
-<img width="1700" height="460" alt="github-header-banner(5)" src="https://github.com/user-attachments/assets/d9d14744-5c25-49e2-a843-71545d4340cc" />
+# ☕︎ Axel Liljendal
 
-## About me
-I'm a 29 y/o fullstack development student based in Gothenburg, Sweden.
-I'm Currently studying Java and expanding my skills toward fullstack development (Aug 2024 - May 2026). 
+I'm a software development student based in Gothenburg, Sweden.
+I'm Currently studying Java and expanding my skills toward fullstack development (Aug 2024 - May 2026).
 I chose programming because i love creating new things, problem solving, collaborating in teams and constantly learning.
 Outside of coding, you'll usually find me playing table tennis, chess, running long distances, or spending time with my friends and family.
 
-## Languages and tools
+## 🛠️Languages and tools
+
 <span style="display: flex; gap: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
@@ -26,9 +26,10 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 </span>
 
 <details>
-  <summary><h3>Click here to see my portfolio</h3></summary>
+  
+  <summary><h3>💼 My portfolio</h3></summary>
 
-  <div style="margin-bottom: 48px">
+  <div style="margin-bottom: 50px">
     <h4>Healthcare</h4>
     <ul>
       <li><strong>Backend:</strong> <a href="https://github.com/Larsin15/HealthCareSDLC-CodeNerds">github.com/Larsin15/HealthCareSDLC-CodeNerds</a></li>
@@ -36,7 +37,7 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
     </ul>
   </div>
 
-  <div style="margin-bottom: 48px">
+  <div style="margin-bottom: 50px">
     <h4>Homi</h4>
     <ul>
       <li><strong>Backend:</strong> <a href="https://github.com/Leo-J-Skola/Backend_Grupp">github.com/Leo-J-Skola/Backend_Grupp</a></li>
@@ -44,7 +45,7 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
     </ul>
   </div>
 
-  <div style="margin-bottom: 48px">
+  <div style="margin-bottom: 50px">
     <h4>finance_tracker</h4>
     <ul>
       <li><strong>Backend:</strong> <a href="https://github.com/AxelLiljendal/finance-tracker-backend">github.com/AxelLiljendal/finance-tracker-backend</a></li>
@@ -52,6 +53,6 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   </div>
 </details>
 
-## Connect with me
+## 💬Connect with me
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/77liljendal)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelliljendal/)
