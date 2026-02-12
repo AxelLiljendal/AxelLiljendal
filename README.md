@@ -25,33 +25,9 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
 </span>
 
-<details>
-  
-  <summary><h3>💼 My portfolio</h3></summary>
+## 💼 My portfolio
 
-  <div style="margin-bottom: 50px">
-    <h4>Healthcare</h4>
-    <ul>
-      <li><strong>Backend:</strong> <a href="https://github.com/Larsin15/HealthCareSDLC-CodeNerds">github.com/Larsin15/HealthCareSDLC-CodeNerds</a></li>
-      <li><strong>Frontend:</strong> <a href="https://github.com/Larsin15/HealthCareSDLC-CodeNerds-Frontend">github.com/Larsin15/HealthCareSDLC-CodeNerds-Frontend</a></li>
-    </ul>
-  </div>
-
-  <div style="margin-bottom: 50px">
-    <h4>Homi</h4>
-    <ul>
-      <li><strong>Backend:</strong> <a href="https://github.com/Leo-J-Skola/Backend_Grupp">github.com/Leo-J-Skola/Backend_Grupp</a></li>
-      <li><strong>Frontend:</strong> <a href="https://github.com/Leo-J-Skola/Frontend_Grupp">github.com/Leo-J-Skola/Frontend_Grupp</a></li>
-    </ul>
-  </div>
-
-  <div style="margin-bottom: 50px">
-    <h4>finance_tracker</h4>
-    <ul>
-      <li><strong>Backend:</strong> <a href="https://github.com/AxelLiljendal/finance-tracker-backend">github.com/AxelLiljendal/finance-tracker-backend</a></li>
-    </ul>
-  </div>
-</details>
+Check out my portfolio at [axelliljendal.github.io](https://axelliljendal.github.io/)
 
 ## 💬Connect with me
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/77liljendal)
