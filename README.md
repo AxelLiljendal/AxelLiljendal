@@ -27,8 +27,18 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 
 ## 💼 My portfolio
 
-Check out my portfolio at [axelliljendal.github.io](https://axelliljendal.github.io/)
+<p align="center">
+  <a href="https://axelliljendal.github.io/" style="display:inline-block; padding:8px 16px; background:#2b6cb0; color:white; border-radius:6px; text-decoration:none; font-weight:600;">
+    Visit my portfolio → axelliljendal.github.io
+  </a>
+</p>
+
+A short line describing what visitors will find on the site (optional).
 
 ## 💬Connect with me
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/77liljendal)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelliljendal/)
+<a href="https://discord.com/users/77liljendal">
+  <img src="https://img.icons8.com/ios-filled/50/4A5568/discord-logo.png" alt="Discord" width="50" height="50" style="border-radius: 50%; background-color: #4A5568; padding: 10px;"/>
+</a>
+<a href="https://www.linkedin.com/in/axelliljendal/">
+  <img src="https://img.icons8.com/ios-filled/50/4A5568/linkedin.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; background-color: #4A5568; padding: 10px;"/>
+</a>
