@@ -5,7 +5,7 @@ I'm Currently studying Java and expanding my skills toward fullstack development
 I chose programming because i love creating new things, problem solving, collaborating in teams and constantly learning.
 Outside of coding, you'll usually find me playing table tennis, chess, running long distances, or spending time with my friends and family.
 
-## 🛠️Languages and tools
+## 🛠️Tech stack
 
 <span style="display: flex; gap: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="Visual Studio Code"/>
@@ -27,13 +27,9 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 
 ## 💼 My portfolio
 
-<p align="center">
-  <a href="https://axelliljendal.github.io/" style="display:inline-block; padding:8px 16px; background:#2b6cb0; color:white; border-radius:6px; text-decoration:none; font-weight:600;">
-    Visit my portfolio → axelliljendal.github.io
-  </a>
-</p>
+Feel free to check out my portfolio, where you can find more details about my education, experience, skills and my projects!
 
-A short line describing what visitors will find on the site (optional).
+Click here 
 
 ## 💬Connect with me
 <a href="https://discord.com/users/77liljendal">
