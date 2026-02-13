@@ -29,7 +29,7 @@ Outside of coding, you'll usually find me playing table tennis, chess, running l
 
 Feel free to check out my portfolio, where you can find more details about my education, experience, skills and my projects!
 
-Click here 
+Link to my portfolio [axelliljendal.github.io](https://axelliljendal.github.io/)
 
 ## 💬Connect with me
 <a href="https://discord.com/users/77liljendal">
